@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Maycon Carpes
+# 👋 Olá! Eu sou Maycon 
 
 Sou um(a) **desenvolvedor(a)** apaixonado(a) por tecnologia e inovação. Em formação em **Graduando em Sistema da informação**.
 
